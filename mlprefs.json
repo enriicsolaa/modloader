@@ -1,0 +1,80 @@
+[
+  {
+    "name": "YouTube X",
+    "version": "1.6.2",
+    "path": "YouTubeX.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "iSponsorBlock",
+    "version": "1.2.2-commit-9b6d8db",
+    "path": "iSponsorBlock.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "Return YouTube Dislike",
+    "version": "1.11.9",
+    "path": "ReturnYouTubeDislike.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "YTUHD",
+    "version": "1.5.1",
+    "path": "YTUHD.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "YouPiP",
+    "version": "1.8.6",
+    "path": "YouPiP.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "YTClassicVideoQuality",
+    "version": "1.3.2",
+    "path": "YTClassicVideoQuality.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "NoYTPremium",
+    "version": "1.0.4",
+    "path": "NoYTPremium.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "YTMiniplayerEnabler",
+    "version": "0.0.3",
+    "path": "YTMiniplayerEnabler.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "DontEatMyContent",
+    "version": "1.1.5",
+    "path": "DontEatMyContent.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "LookImPremium",
+    "version": "1.0.0",
+    "path": "LookImPremium.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "YTShortsProgress",
+    "version": "1.0.3",
+    "path": "YTShortsProgress.dylib",
+    "isDependency": false
+  },
+  {
+    "name": "Alderis",
+    "version": "1.2.3",
+    "path": "libcolorpicker.dylib",
+    "isDependency": true
+  },
+  {
+    "name": "YTLoginFix",
+    "version": "0.0.1",
+    "path": "YTLoginFix.dylib",
+    "isDependency": true
+  }
+]
