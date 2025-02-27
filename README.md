@@ -1,0 +1,1 @@
+Montar un menu que a partir de lo de els repos que trobi del github de repos, pugos instalar tweaks, una app on se podra instalar ipas rollo esign o feather, pero que instalarà sol el ellekit i el modMenu linker, que pot ser el genèric (3 dits, x exemple) o especific per cada app: Repo original amb els linkers, que els detecto automaticament depenent del bundle id.
